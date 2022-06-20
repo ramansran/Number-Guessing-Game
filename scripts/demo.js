@@ -63,9 +63,7 @@ function gameOver(){
 // reset function to reset the game 
 function resetGame(){
     count = 1;
-    const Params= document.querySelectorAll('.Paras
-    
-     p');
+    const Params= document.querySelectorAll('.Paras p');
     for (const Param of Params ){
         Param.textContent = '';
     }
