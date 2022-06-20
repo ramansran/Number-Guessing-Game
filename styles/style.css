@@ -1,0 +1,26 @@
+.container{
+    border: 1px solid black;
+    padding: 5px 5px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.inputs{
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5px;
+    flex-direction: row;
+}
+#result{
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5px;
+    flex-direction: row;
+}
